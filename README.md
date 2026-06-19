@@ -1,4 +1,6 @@
-# Sistema de Monitoreo y Detección Temprana de Incendios Forestales con PyTorch Mobile
+# Sistema de Monitoreo y Detección Temprana de Incendios Forestales Basado en YOLOv8 Large y TorchScript
+
+🌐 Hugging Face Space: https://huggingface.co/spaces/MatiasSp/Fire-Smoke_Detection
 
 Este repositorio contiene la implementación, el análisis de rendimiento y el despliegue de un modelo de Procesamiento Digital de Imágenes basado en la arquitectura YOLOv8 Large. El sistema ha sido optimizado mediante la compilación en TorchScript para garantizar su portabilidad y ejecución eficiente en dispositivos con recursos computacionales limitados, encontrándose desplegado interactivamente en Hugging Face Spaces.
 
