@@ -27,8 +27,8 @@ val/
 test/
   ├── images/      # Imagenes de prueba
   └── labels/      # Etiquetas en formato YOLO
-
-# Estadísticas y Clases del Dataset
+```
+##Estadísticas y Clases del Dataset
 
 El dataset incluye anotaciones específicas para las siguientes clases identificadas por sus índices numéricos:
 
@@ -148,4 +148,7 @@ La arquitectura final demuestra que el modelo no solo alcanza un desempeño comp
 
 # 7. Citación y Créditos Originales
 
-Este proyecto se desarrolló utilizando como base el conjunto de datos **D-Fire**,
+Este proyecto utiliza como base conceptual el trabajo desarrollado por los autores del dataset D-Fire y su sistema de detección automática de incendios mediante redes neuronales convolucionales profundas.
+
+de Venâncio, P. V. A. B., Lisboa, A. C., & Barbosa, A. V. (2022). An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. Neural Computing and Applications, 34(18), 15349–15368. https://doi.org/10.1007/s00521-022-07467-z
+
