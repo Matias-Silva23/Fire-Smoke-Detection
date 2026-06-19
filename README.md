@@ -1,6 +1,7 @@
 # Sistema de Monitoreo y Detección Temprana de Incendios Forestales Basado en YOLOv8 Large y TorchScript
 
 🌐 Hugging Face Space: https://huggingface.co/spaces/MatiasSp/Fire-Smoke_Detection
+
 🌐 Base de datos Roboflow:: https://app.roboflow.com/matiass-workspace-svynh/fire-smoke-detection-yolov11-y53yn-gmrm1/train
 
 
